@@ -25,5 +25,6 @@ digits that are visually more confusable.
 ## Links to resources:
 
 mnist_784 dataset: https://www.openml.org/search?type=data&status=active&id=554
+
 LBFGS algorithm: https://en.wikipedia.org/wiki/Limited-memory_BFGS
 
